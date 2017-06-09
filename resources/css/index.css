@@ -1,0 +1,21 @@
+html {
+  background: linear-gradient(0deg, #BF34EF, #DB0475);
+  background-attachment: fixed;
+  color: white;
+}
+
+h1, p {
+  text-align: center;
+  font-family: Arial;
+  font-weight: normal;
+}
+
+.fade {
+  opacity: 0.5;
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
